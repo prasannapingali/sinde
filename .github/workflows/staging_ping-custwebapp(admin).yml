@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'ping-custwebapp'
         slot-name: 'admin'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c06eddcd620a4c9d9e61756a990d3c6c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2c2f18e31ed045a9b12b7f8c63a75cca }}
         package: .
